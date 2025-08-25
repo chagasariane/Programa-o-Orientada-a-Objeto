@@ -18,13 +18,15 @@ internal class Program
         Console.Write("Digite o estoque: ");
         p1.estoque = Convert.ToInt32(Console.ReadLine());
 
-        //enviar para o método (chamada de função, em python)
-
         p1.MostrarAtributos();
 
         Console.Write("Digite uma porcentagem: ");
         double porcentagem = Convert.ToDouble(Console.ReadLine());
-        p1.CalcularAumento(porcentagem);
+        p1.CalcularAumento(percent);
+
+        //envio de mensagem (argumento) do objeto para o método (chamada de função, em python)
+        //um unico valor numerico, envio de mensagem do objeto por valor
+        //vários valores, envio de mensagem do objeto por referencia
 
         Console.Write("Digite uma quantidade: ");
         int quantidade = Convert.ToInt32(Console.ReadLine());
@@ -37,3 +39,9 @@ internal class Program
         //segunda instanciação
     }
 }
+
+// o parâmetro na main se chama argumento
+// pesquisar o por quê
+
+//aqui é como se fosse a interface, onde chamamos os métodos
+

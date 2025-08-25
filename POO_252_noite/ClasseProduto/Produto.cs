@@ -7,7 +7,7 @@ namespace ClasseProduto
 {
     public class Produto
     {
-        //declaração dos atributos
+        //declaração dos atributos da classe
         public int codigo;
         public string nome;
         public double preco;
@@ -19,7 +19,7 @@ namespace ClasseProduto
         {
             Console.WriteLine("Código: " + codigo + "\tNome: " + nome + "\tPreço: " + preco + "\tEstoque: " + estoque);
         }
-        public void CalcularAumento(double porcentagem)
+        public void CalcularAumento(double porcentagem) //porcentagem é parâmetro aqui
         {
             preco = preco + (preco * (porcentagem/100));
         }
@@ -33,3 +33,5 @@ namespace ClasseProduto
         }
     }
 }
+
+//aqui fazemos a declaração das variáveis e as lógicas dos métodos

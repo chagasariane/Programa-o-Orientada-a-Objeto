@@ -10,7 +10,7 @@ internal class program
                                             //Funcionario() - método construtor
 
                                             //new Funciona() - Instância  
-
+                                            //o objeto só existe quando ele é instanciado 
                                             //estado do meu objeto - valor que está atribuido no objeto dentro da instacia
 
         Console.Write("Digite o código: ");
