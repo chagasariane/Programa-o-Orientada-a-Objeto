@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\bin\Debug\net8.0\Revisao.exe
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\bin\Debug\net8.0\Revisao.deps.json
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\bin\Debug\net8.0\Revisao.runtimeconfig.json
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\bin\Debug\net8.0\Revisao.dll
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\bin\Debug\net8.0\Revisao.pdb
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\obj\Debug\net8.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\obj\Debug\net8.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\obj\Debug\net8.0\Revisao.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\obj\Debug\net8.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\obj\Debug\net8.0\Revisao.dll
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\obj\Debug\net8.0\refint\Revisao.dll
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\obj\Debug\net8.0\Revisao.pdb
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\obj\Debug\net8.0\Revisao.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO_252_noite\Revisao\obj\Debug\net8.0\ref\Revisao.dll
