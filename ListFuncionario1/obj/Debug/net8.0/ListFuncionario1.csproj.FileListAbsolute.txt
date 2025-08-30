@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\obj\Debug\net8.0\ListFuncionario1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\obj\Debug\net8.0\ListFuncionario1.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\obj\Debug\net8.0\ListFuncionario1.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\obj\Debug\net8.0\ListFuncionario1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\obj\Debug\net8.0\ListFuncionario1.sourcelink.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\bin\Debug\net8.0\ListFuncionario1.exe
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\bin\Debug\net8.0\ListFuncionario1.deps.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\bin\Debug\net8.0\ListFuncionario1.runtimeconfig.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\bin\Debug\net8.0\ListFuncionario1.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\bin\Debug\net8.0\ListFuncionario1.pdb
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\obj\Debug\net8.0\ListFuncionario1.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\obj\Debug\net8.0\refint\ListFuncionario1.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\obj\Debug\net8.0\ListFuncionario1.pdb
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\obj\Debug\net8.0\ListFuncionario1.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\ListFuncionario1\obj\Debug\net8.0\ref\ListFuncionario1.dll

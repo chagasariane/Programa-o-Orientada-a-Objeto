@@ -4,13 +4,13 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        //declaração do vetor
+        //declaração do vetor - vetor vazio (null)
         Conta[] vetContas = new Conta[3];
 
-        //o laço de repetição realizará o cadastro das contas
-        for (int i = 0; 1 < vetContas.Length; i++)
+        //o laço de repetição realizará o cadastro das contas 
+        for (int i = 0; i < vetContas.Length; i++)
         {
-            //intanciação de CADA índice
+            //intanciação de CADA índice //a instaciação está dentro do laço de repetição
             vetContas[i] = new Conta();
 
             Console.Write("Digite o número: ");
@@ -24,7 +24,7 @@ internal class Program
         }
 
         //apresentação das contas com for
-        for (int i = 0; 1 < vetContas.Length; i++)
+        for (int i = 0; i < vetContas.Length; i++)
             vetContas[i].MostrarAtributos();
 
         //apresentação das contas com foreach 
