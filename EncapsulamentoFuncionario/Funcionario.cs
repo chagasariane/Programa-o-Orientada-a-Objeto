@@ -3,21 +3,40 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ListFuncionario
+namespace ClasseFuncionario
 {
     public class Funcionario
     {
         //declaração dos atributos (variáveis, em python)
-        public int codigo;
-        public string nome;
-        public double salario;
+        private int codigo;
+        private string nome;
+        private double salario;
+
+        //declaração dos métodos
+        public int Codigo
+        {
+            get{return codigo;}
+            set{codigo = value;}
+        }
+
+        public string Nome
+        {
+            get{return nome;}
+            set{nome = value;}
+        }
+
+        public double Salario
+        {
+            get{return salario;}
+            set{salario = value;}
+        }
 
         //declaracção do método (função, em python) 
         public void MostrarAtributos()
         {
             Console.WriteLine("Código: " + codigo);
             Console.WriteLine("Nome: " + nome);
-            Console.WriteLine($"Salário: {salario:c}");
+            Console.WriteLine("Salário: R$" + salario);
         }
         public void CalcularAumento()
         {

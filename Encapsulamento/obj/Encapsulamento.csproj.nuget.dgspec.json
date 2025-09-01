@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\ListFuncionario\\ListFuncionario.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\Encapsulamento\\Encapsulamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\ListFuncionario\\ListFuncionario.csproj": {
+    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\Encapsulamento\\Encapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\ListFuncionario\\ListFuncionario.csproj",
-        "projectName": "ListFuncionario",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\ListFuncionario\\ListFuncionario.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\Encapsulamento\\Encapsulamento.csproj",
+        "projectName": "Encapsulamento",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\Encapsulamento\\Encapsulamento.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\ListFuncionario\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

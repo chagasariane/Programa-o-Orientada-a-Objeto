@@ -24,7 +24,7 @@ for (int i = 0; i < 3; i++)
     total = total + f.salario;
     vetF.Add(f); //vet.f.Add(objeto);
 }
-Console.Write($"\nO salário total é {total:c} dos funcionários")
+Console.Write($"\nO salário total é {total:c} dos funcionários\n");
 
 foreach (Funcionario funci in vetF)
     funci.MostrarAtributos();
