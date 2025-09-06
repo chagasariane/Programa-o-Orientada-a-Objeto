@@ -38,7 +38,7 @@ namespace EncapsulamentoEstudante
         }
         public ExibirInformacoes()
         {
-            Console.WriteLine("Status ")
+            Console.WriteLine("Status" + EstaAprovado(Media));
         }
     }       
 }
