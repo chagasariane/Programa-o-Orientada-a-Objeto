@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\VetorConta\\VetorConta.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\VetorConta\\VetorConta.csproj",
       "projectName": "VetorConta",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\VetorConta\\VetorConta.csproj",
+      "projectPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\VetorConta\\VetorConta.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\VetorConta\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\VetorConta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

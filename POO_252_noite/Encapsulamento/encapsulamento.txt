@@ -1,0 +1,44 @@
+private double saldo;
+
+public double GetSaldo() //Get - buscar
+{
+    return this.saldo;
+}
+public void Set.saldo; //Set - alterar
+{
+    this.saldo = saldo;
+}
+
+// this vem junto com o atributo que foi instanciado (esse(this) objeto atual)
+// e do outro lado é o parametro da função - lado direito
+
+// em C#
+
+class Conta
+{
+    private double saldo;
+
+    public double Saldo
+    {
+        get{ return saldo;}
+        set{saldo = value;}
+    }
+}
+
+//encapsulamento é usar private e set e get para os atributos
+
+Aula 06-09
+propef
+
+https://sharplab.io/
+
+using System;
+public class Produto {
+    public int Codigo { get; set; }
+    public string Senha {private get; set; } //deixei o get privado, bloquendo o acesso
+   public void Mostrar()
+   {
+       Console.WriteLine("Código: " + Codigo);
+   }
+}
+

@@ -1,22 +1,22 @@
-﻿using EncapsulamentoConta;
+﻿using EncapsulamentoFuncionario;
 
 internal class Program
 {
    private static void Main(string[] args) 
    {
-    Conta c1 = new Conta();
-    c1.Numero = 1;
-    c1.Titular = "Ana";
-    c1.Saldo = 100;
-    c1.MostrarAtributos();
+    Funcionario f1 = new Funcionario();
+    f1.Codigo = 1; // esse é o set
+    f1.Nome = "Ana";
+    f1.Salario = 100;
+    f1.MostrarAtributos();
 
-    Conta c2 = new Conta();
-    Console.Write("Digite o número: ");
-    c2.Numero = Convert.ToInt32(Console.ReadLine());
-    Console.Write("Digite o titular: ");
-    c2.Titular = Console.ReadLine();
-    Console.Write("Digite o saldo: ");
-    c2.Saldo = Convert.ToDouble(Console.ReadLine());
+    Funcionario f2 = new Funcionario();
+    Console.Write("Digite o codigo: "); //get
+    f2.Codigo = Convert.ToInt32(Console.ReadLine());
+    Console.Write("Digite o nome: ");
+    f2.Nome = Console.ReadLine();
+    Console.Write("Digite o salario: ");
+    c2.Salario = Convert.ToDouble(Console.ReadLine());
     c2.MostrarAtributos();
    }
 }

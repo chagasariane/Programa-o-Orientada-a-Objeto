@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\bin\Debug\net8.0\EncapsulamentoProduto.exe
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\bin\Debug\net8.0\EncapsulamentoProduto.deps.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\bin\Debug\net8.0\EncapsulamentoProduto.runtimeconfig.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\bin\Debug\net8.0\EncapsulamentoProduto.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\bin\Debug\net8.0\EncapsulamentoProduto.pdb
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.sourcelink.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\obj\Debug\net8.0\refint\EncapsulamentoProduto.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.pdb
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoProduto\obj\Debug\net8.0\ref\EncapsulamentoProduto.dll

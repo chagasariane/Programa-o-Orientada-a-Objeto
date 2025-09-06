@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\ListFuncionario1\\ListFuncionario1.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\ListFuncionario\\ListFuncionario1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\ListFuncionario1\\ListFuncionario1.csproj": {
+    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\ListFuncionario\\ListFuncionario1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\ListFuncionario1\\ListFuncionario1.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\ListFuncionario\\ListFuncionario1.csproj",
         "projectName": "ListFuncionario1",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\ListFuncionario1\\ListFuncionario1.csproj",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\ListFuncionario\\ListFuncionario1.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\ListFuncionario1\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\ListFuncionario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

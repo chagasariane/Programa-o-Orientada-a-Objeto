@@ -1,0 +1,5 @@
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.sourcelink.json

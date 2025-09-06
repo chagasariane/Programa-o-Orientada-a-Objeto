@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VetorFuncionario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ca3ef414024dbf3e4c6f1843aa17a21ca7ca2af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3cf14ddca20702719cedc78a117ac66b9437f48")]
 [assembly: System.Reflection.AssemblyProductAttribute("VetorFuncionario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VetorFuncionario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
