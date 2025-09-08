@@ -4,19 +4,18 @@ internal class Program
 {
    private static void Main(string[] args) 
    {
-    Funcionario f1 = new Funcionario();
-    f1.Codigo = 1; // esse é o set
-    f1.Nome = "Ana";
-    f1.Salario = 100;
-    f1.MostrarAtributos();
+    Estudante e1 = new Estudante();
+    e1.Nome = "Ana"; // esse é set
+    e1.Media = 6; // esse é set
+    e1.ExibirInformacoes();
+    e1.ExibirDetalhes();
 
-    Funcionario f2 = new Funcionario();
-    Console.Write("Digite o codigo: "); //get
-    f2.Codigo = Convert.ToInt32(Console.ReadLine());
-    Console.Write("Digite o nome: ");
-    f2.Nome = Console.ReadLine();
-    Console.Write("Digite o salario: ");
-    c2.Salario = Convert.ToDouble(Console.ReadLine());
-    c2.MostrarAtributos();
+    Estudante e2 = new Estudante();
+    Console.Write("Digite o nome: "); //get
+    e2.Nome = Console.ReadLine();//set
+    Console.Write("Digite o nome: "); // get
+    e2.Nome = Convert.ToDouble(Console.ReadLine());//set
+    e2.ExibirInformacoes();
+    e2.ExibirDetalhes();
    }
 }

@@ -1,0 +1,2 @@
+um método construtor NUNCA pode ter retorno
+mas pode ter parâmetro
