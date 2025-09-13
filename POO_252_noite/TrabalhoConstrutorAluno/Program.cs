@@ -7,7 +7,7 @@ Crie doi construtores, um com o parametro vazio e outro com o parametro nome
 Use o construtor static para inicializar a variável contador
 Nos outros construtor incremnete o contador e o armazene no atributo Ra
 
-O tipo de contador é long
+O tipo de contador e ra é long
 
 Faça instâncias e apresente os atributos
 
