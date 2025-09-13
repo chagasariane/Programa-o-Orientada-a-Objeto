@@ -14,4 +14,5 @@ Faça instâncias e apresente os atributos
 Implemente o método MostrarAtributos()
 
 Ra padrão Fatec 157(Fatec)048(ADS)24(ano)1(semestre)3(turno)021(nº da matricula do aluno)
+só vai alterar o nº de matricula
 
