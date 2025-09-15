@@ -1,0 +1,15 @@
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\bin\Debug\net10.0\VetorProduto.exe
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\bin\Debug\net10.0\VetorProduto.deps.json
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\bin\Debug\net10.0\VetorProduto.runtimeconfig.json
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\bin\Debug\net10.0\VetorProduto.dll
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\bin\Debug\net10.0\VetorProduto.pdb
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\obj\Debug\net10.0\VetorProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\obj\Debug\net10.0\VetorProduto.AssemblyInfoInputs.cache
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\obj\Debug\net10.0\VetorProduto.AssemblyInfo.cs
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\obj\Debug\net10.0\VetorProduto.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\obj\Debug\net10.0\VetorProduto.sourcelink.json
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\obj\Debug\net10.0\VetorProduto.dll
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\obj\Debug\net10.0\refint\VetorProduto.dll
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\obj\Debug\net10.0\VetorProduto.pdb
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\obj\Debug\net10.0\VetorProduto.genruntimeconfig.cache
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\VetorProduto\obj\Debug\net10.0\ref\VetorProduto.dll

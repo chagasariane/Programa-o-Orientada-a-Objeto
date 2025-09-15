@@ -34,8 +34,6 @@ internal class Program
 
         p1.CalcularSubtotal();
 
-        p1.MostrarAtributos();
-
         //segunda instanciação
     }
 }
