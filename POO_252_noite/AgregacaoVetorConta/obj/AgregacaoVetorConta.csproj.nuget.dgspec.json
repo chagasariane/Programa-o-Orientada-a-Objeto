@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\TrabalhoConstrutorAluno\\TrabalhoConstrutorAluno.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\AgregacaoVetorConta\\AgregacaoVetorConta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\TrabalhoConstrutorAluno\\TrabalhoConstrutorAluno.csproj": {
+    "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\AgregacaoVetorConta\\AgregacaoVetorConta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\TrabalhoConstrutorAluno\\TrabalhoConstrutorAluno.csproj",
-        "projectName": "TrabalhoConstrutorAluno",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\TrabalhoConstrutorAluno\\TrabalhoConstrutorAluno.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\AgregacaoVetorConta\\AgregacaoVetorConta.csproj",
+        "projectName": "AgregacaoVetorConta",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\AgregacaoVetorConta\\AgregacaoVetorConta.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\TrabalhoConstrutorAluno\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\AgregacaoVetorConta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

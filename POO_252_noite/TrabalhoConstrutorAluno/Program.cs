@@ -1,18 +1,16 @@
-﻿using TrabalhoConstrutorAluno;
+﻿using System;
 
-/*
-Criar a classe Aluno (Ra, Nome, Contador(static))
-Crie doi construtores, um com o parametro vazio e outro com o parametro nome
+public class Program
+{
+    public static void Main()
+    {
+        Aluno a1 = new Aluno();
+        a1.MostrarAtributos();
+        Aluno a2 = new Aluno("Ariane");
+        a2.MostrarAtributos();
+        Aluno a3 = new Aluno("Carla");
+        a3.MostrarAtributos();
 
-Use o construtor static para inicializar a variável contador
-Nos outros construtor incremnete o contador e o armazene no atributo Ra
-
-O tipo de contador e ra é long
-
-Faça instâncias e apresente os atributos
-
-Implemente o método MostrarAtributos()
-
-Ra padrão Fatec 157(Fatec)048(ADS)24(ano)1(semestre)3(turno)021(nº da matricula do aluno)
-só vai alterar o nº de matricula
-
+        Console.WriteLine($"\nTotal de alunos cadastrados: {Aluno.Contador}");
+    }
+}

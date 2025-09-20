@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\TrabalhoConstrutorAluno\\TrabalhoConstrutorAluno.csproj",
-      "projectName": "TrabalhoConstrutorAluno",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\TrabalhoConstrutorAluno\\TrabalhoConstrutorAluno.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\TrabalhoConstrutorAluno\\ConstrutorAluno.csproj",
+      "projectName": "ConstrutorAluno",
+      "projectPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\TrabalhoConstrutorAluno\\ConstrutorAluno.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\aluno\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\TrabalhoConstrutorAluno\\obj\\",
       "projectStyle": "PackageReference",

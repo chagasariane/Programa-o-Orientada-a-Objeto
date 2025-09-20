@@ -1,12 +1,31 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace TrabalhoConstrutorAluno
+public class Aluno
 {
-    public class Aluno
+    public long Ra { get; set; }
+    public string Nome { get; set; }
+    public static long Contador { get; private set; }
+
+    static Aluno()
     {
-        
+        Contador = 1570482413000;
+    }
+
+    public Aluno()
+    {
+        Contador += 1;
+        Ra = Contador;
+    }
+
+    public Aluno(string nome)
+    {
+        Contador += 1;
+        Ra = Contador;
+        Nome = nome;
+    }
+
+    public void MostrarAtributos()
+    {
+        Console.WriteLine($"RA: {Ra} - Nome: {Nome}");
     }
 }

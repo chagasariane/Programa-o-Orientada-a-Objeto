@@ -1,0 +1,2 @@
+Fazer entre a classe Venda e Produto o mesmo que fizemos no exercício AgregacaoVetorConta
+Construtor em Comprador, Vendedor e Produto --> Comprador pod eter parâmetro
