@@ -1,2 +1,6 @@
 Fazer entre a classe Venda e Produto o mesmo que fizemos no exercício AgregacaoVetorConta
 Construtor em Comprador, Vendedor e Produto --> Comprador pod eter parâmetro
+Acho que a classe venda é um vetor de Produto (averiguar)
+
+
+

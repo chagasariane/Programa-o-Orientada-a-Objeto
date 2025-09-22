@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\obj\Debug\net8.0\ComposicaoNf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\obj\Debug\net8.0\ComposicaoNf.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\obj\Debug\net8.0\ComposicaoNf.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\obj\Debug\net8.0\ComposicaoNf.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\obj\Debug\net8.0\ComposicaoNf.sourcelink.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\bin\Debug\net8.0\ComposicaoNf.exe
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\bin\Debug\net8.0\ComposicaoNf.deps.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\bin\Debug\net8.0\ComposicaoNf.runtimeconfig.json
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\bin\Debug\net8.0\ComposicaoNf.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\bin\Debug\net8.0\ComposicaoNf.pdb
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\obj\Debug\net8.0\ComposicaoNf.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\obj\Debug\net8.0\refint\ComposicaoNf.dll
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\obj\Debug\net8.0\ComposicaoNf.pdb
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\obj\Debug\net8.0\ComposicaoNf.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\ComposicaoNf\obj\Debug\net8.0\ref\ComposicaoNf.dll
