@@ -8,7 +8,7 @@ namespace EncapsulamentoEstudante
     public class Estudante
     {
         //declaração dos atributos
-        // private string? nome; --> não precisa declarar porque estou usando o encapsulamento compacto 
+        // private string? nome; -> não precisa declarar porque estou usando o encapsulamento compacto 
         private double media; // declarei porque preciso personalizar a lógica do get ou do set
 
         //declaração das propriedades
