@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pz1wOyjJmPY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pesquisaetecnologia\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\EncapsulamentoEstudante\\EncapsulamentoEstudante.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pesquisaetecnologia\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\pesquisaetecnologia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\pesquisaetecnologia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\pesquisaetecnologia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

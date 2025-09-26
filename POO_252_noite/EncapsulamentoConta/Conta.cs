@@ -20,8 +20,8 @@ namespace EncapsulamentoConta //namespace é uma subpasta
 
         public string Titular
         {
-            get{return titular;}
             set{titular = value;}
+            get{return titular;}
         }
 
         public double Saldo

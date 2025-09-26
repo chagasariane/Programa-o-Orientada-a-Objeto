@@ -13,8 +13,9 @@ internal class program
                                             //o objeto só existe quando ele é instanciado 
                                             //estado do meu objeto - valor que está atribuido no objeto dentro da instacia
 
-        Console.Write("Digite o código: ");
-        f1.codigo = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Digite o código: "); 
+        f1.codigo = Convert.ToInt32(Console.ReadLine()); // o valor digitado é convertido para inteiro e guardado no atributo "codigo" do objeto "f1" do tipo Funcionario
+
 
         Console.Write("Digite o nome: ");
         f1.nome = Console.ReadLine();
