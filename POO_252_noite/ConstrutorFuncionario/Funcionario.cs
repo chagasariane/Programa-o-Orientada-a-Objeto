@@ -11,11 +11,12 @@ namespace ConstrutorFuncionario
         public double Salario { get; set; }
         public static int Contador { get; private set; } //declaração da variárel contador e já inicializa em 0, pois a instancia new Construtor() zera as variávies dentro de cada instanca
         // a classe controla o contator com a plavra static - static é uma variável de classe / diretia 
-
+        // o atributo Contador não pode ser controlada pelo objeto por que não é uma variável instanciada, quando dizemos que é static
 
         //declaração do construtor (atalho - ctor)
-        //construtor inicializa as variáveis (atributos conhecidos) (atribitos são os em maiúsculo)
-        public Funcionario() //construtor padrão
+        //construtor inicializa a variável de instância(objeto), ou seja, inicializa os atributos da classe depois da instanciação
+        //atributos conhecidos (atribitos são os em maiúsculo)
+        public Funcionario() //construtor padrão --> NUNCA terá retorno
         {
         }
         public Funcionario(int codigo)

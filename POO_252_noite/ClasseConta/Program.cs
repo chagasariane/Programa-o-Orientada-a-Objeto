@@ -4,9 +4,9 @@ internal class Program
     private static void Main(string[] args) //o arquivo Program é a main
     {
         //declaração de variável
-        Conta c1;//o tipo da variável é "Conta"
+        Conta c1;//o tipo da variável é "Conta" --> Conta é a minha estrutura de dados
         //instaciação de objeto
-        c1 = new Conta(); //Conta() construtor e agora c1 é um objeto
+        c1 = new Conta(); //Conta() método construtor e agora c1 é um objeto
         c1.numero = 1; //objeto . atributo
         c1.titular = "Ana";
         c1.saldo = 100;

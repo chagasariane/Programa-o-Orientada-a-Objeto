@@ -15,3 +15,5 @@ Use encapsulamento completo (com tratamento de preços digitados) para os atribu
 
 Realizar instâncias necessárias para testar as classes
 
+na classe venda produto vetprod é uma lista
+

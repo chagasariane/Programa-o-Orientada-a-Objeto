@@ -8,6 +8,7 @@ namespace EncapsulamentoConta //namespace é uma subpasta
     public class Conta //tipos de dados meu de programador 
     {
         //declaração do atributos
+        //private -- manter a integridade dos atributos - get(busca) e set(alterar)
         private int numero;
         private string titular;
         private double saldo;

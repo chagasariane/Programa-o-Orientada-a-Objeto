@@ -6,7 +6,7 @@ public class Aluno
     public string Nome { get; set; }
     public static long Contador { get; private set; }
 
-    static Aluno()
+    static Aluno() // construtor estático --> ele será o primeiro a ser executado, mesmo se estive lá embaixo
     {
         Contador = 1570482413000;
     }

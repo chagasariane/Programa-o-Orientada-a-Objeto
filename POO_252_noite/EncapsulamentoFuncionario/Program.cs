@@ -5,6 +5,7 @@ internal class Program
    private static void Main(string[] args) 
    {
     Funcionario f1 = new Funcionario();
+    // após o encapsulamento deixa de ser objeto.atributo para objeto.propriedade 
     f1.Codigo = 1; // esse é o set
     f1.Nome = "Ana";
     f1.Salario = 100;
