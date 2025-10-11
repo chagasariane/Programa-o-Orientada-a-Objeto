@@ -1,0 +1,17 @@
+classe filho ganha e usa atributos e métodos da classe pai e tem os seus próprios
+setinha aberta e linha continua em código será ":" --> filho:pai
+classes ligada a uma unica class
+herança = caracteristica
+
+especialização --> olhando mais detalhes para o de baixo
+generalização --> vejo todas as caracteristicas
+
+quando um filho um método com o mesmo nome de um método do pai, o método do filho será um pouco diferente (Polimorfismo)
+
+filho com filho não se comunicam, apena filho e pai
+
+herança simples --> um setinha apenas, só em C#, JAVA... já python permite Herança Multipla
+
+visibilidade --> "protected" apenas nos atributos da superclasse (pai) no lugar de private
+                 no filho será SEMPRE private (ultimo nivel)
+
