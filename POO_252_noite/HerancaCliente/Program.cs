@@ -10,3 +10,4 @@ cf.Nome = "Ana";
 // objeto cliente fisico pode usar codigo e nome da classe Cliente porque está herdando essas propriedades
 cf.Rg = 123;
 cf.Mostrar();
+
