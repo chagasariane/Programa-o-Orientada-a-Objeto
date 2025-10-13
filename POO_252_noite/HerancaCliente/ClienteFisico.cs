@@ -13,9 +13,10 @@ namespace HerancaCliente
             get { return rg; }
             set { rg = value; }
         }
-        public void Mostrar()
+        public override void Mostrar()
         { 
-            Console.WriteLine($"Código: {codigo} \tNome: {nome} \tRg: {Rg}"); //posso ver o atributo codigo que está na classe Cliente (pai)
+            base.Mostrar(); //apresenta código e nome
+            Console.WriteLine($"\tRg: {Rg}"); //posso ver o atributo codigo que está na classe Cliente (pai)
         } //"codigo" e "nome" minisculo tem o modificador de acesso/visibilidade aberto, para acessar a superclasse pela palavra reservada "protected"
     }
 }

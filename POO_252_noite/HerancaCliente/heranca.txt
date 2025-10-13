@@ -1,4 +1,4 @@
-classe filho ganha e usa atributos e métodos da classe pai e tem os seus próprios
+classe filho(classe derivada) ganha e usa atributos e métodos da classe pai(classe base) e tem os seus próprios
 setinha aberta e linha continua em código será ":" --> filho:pai
 classes ligada a uma unica class
 herança = caracteristica
@@ -15,3 +15,7 @@ herança simples --> um setinha apenas, só em C#, JAVA... já python permite He
 visibilidade --> "protected" apenas nos atributos da superclasse (pai) no lugar de private
                  no filho será SEMPRE private (ultimo nivel)
 
+
+Polimorfismo --> dois métodos ou mais com o mesmo nome, ou seja, terá um métodos na classe pai e no filho, mas com uma estrutura diferente
+classe base - virtual
+classe derivada - override

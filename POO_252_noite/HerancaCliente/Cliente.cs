@@ -21,6 +21,9 @@ namespace HerancaCliente
             get { return nome; }
             set { nome = value; }
         }
-        
+        public virtual void Mostrar()
+        {
+            Console. WriteLine("Código: " + codigo + "\tNome: "+ nome);
+        }
     }
 }
