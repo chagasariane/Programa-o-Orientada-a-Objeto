@@ -17,8 +17,8 @@ namespace AbstrataFuncionario
         { // propriedade recebe o parâmetro
             Codigo = codigo;
             Nome = nome;
-            _Endereco = endereco
-            Salario = salario 
+            _Endereco = endereco;
+            Salario = salario;
         }
 
         // métodos de encapsulamento
@@ -29,8 +29,8 @@ namespace AbstrataFuncionario
         }
         public string? Nome
         {
-            get { return Nome; }
-            set { Nome = value; }
+            get { return nome; }
+            set { nome = value; }
         }
         public Endereco _Endereco //_Endereco é a propriedade e Endereco é o tipo 
         {
@@ -42,8 +42,10 @@ namespace AbstrataFuncionario
             get { return salario; }
             set { salario = value; }
         }
+        public virtual void Mostrar()
+        {
+            Console.WriteLine($"Código: {Codigo} \tNome: {Nome} \tSalário: {Salario:c}");
+        }
+        public abstract double CalcularSalario(int diasUteis); //assinatura de método
     }
 }
-
-  git config --global user.email "ariane0.gc@gmail.com"
-  git config --global user.name "Ariane Chagas"
