@@ -44,3 +44,6 @@ namespace AbstrataFuncionario
         }
     }
 }
+
+  git config --global user.email "ariane0.gc@gmail.com"
+  git config --global user.name "Ariane Chagas"
