@@ -47,5 +47,12 @@ namespace AbstrataFuncionario
             Console.WriteLine($"Código: {Codigo} \tNome: {Nome} \tSalário: {Salario:c}");
         }
         public abstract double CalcularSalario(int diasUteis); //assinatura de método
+        // o que o método faz pelo nome, sabe os parâmetros, mas não sabe a lógica
+        // obrigatório que as classes filhas utilizem esse método
+        // método abstrato só pode estar dentro de classe bastrata
+        // nunca tem lógica
     }
 }
+//criar classe Dependente
+//implementar funções
+//terá um vetor de dependente

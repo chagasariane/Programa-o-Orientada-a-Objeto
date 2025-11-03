@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClasseFuncionario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+219fbe0ade4b8cb209244b8c8ed60ccc2d80eb40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+041351677cdb222a8dedd708eacde490c0dfa7ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClasseFuncionario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClasseFuncionario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

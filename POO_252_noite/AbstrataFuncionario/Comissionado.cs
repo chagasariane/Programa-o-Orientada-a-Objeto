@@ -12,7 +12,7 @@ namespace AbstrataFuncionario
         {
             Porcentagem = porcentagem;
         }
-        public override double CalcularSalario(int diasUteis)
+        public override double CalcularSalario(int diasUteis) // override porque está modificando o método da classe mãe, está vindo de uma classe abstrata e irá ocorrer polimorfismo(utiliza a classe da mãe)
         {
             return Salario / 30 * diasUteis * Porcentagem / 100 + Salario;
         }
