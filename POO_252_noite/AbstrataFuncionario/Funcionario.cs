@@ -56,3 +56,6 @@ namespace AbstrataFuncionario
 //criar classe Dependente
 //implementar funções
 //terá um vetor de dependente
+
+git config --global user.email "ariane0.gc@gmail.com"
+git config --global user.name "Ariane Chagas"
