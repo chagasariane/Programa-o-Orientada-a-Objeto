@@ -1,0 +1,15 @@
+interface -------|>
+implementar
+não pode ser instanciada --> igual classe abstrata --> sem new
+implementação da interfaceA --> usa o método obrigatoriamente 
+para desacoplar classe
+Class --> interface
+interface Iteste
+não precisa de public e nem abstract
+:
+método tem lógica quando é implemntada por outra classe
+
+pesquisar a diferença de aplaicação entre abstrata e interface
+
+classe implementa uma interface 
+class Estagiario : Funcionario, IRemuneravel --> Funcionario implementa interface IRemuneravel
