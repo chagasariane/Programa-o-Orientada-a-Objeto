@@ -1,0 +1,35 @@
+HERANÇA :
+- construtor --> : base (atributos) ?nome do construtor
+- encapsulamento (atributos - protected - coloca apenas na super classe / nas classes derivadas é private)
+- classe base É UM --> classe derivada 
+- todos os métodos tem lógica
+
+POLIMORFISMO - multiplas formas de chamar o método
+- estático (acontece dentro da mesma classe) resolve no compilador, mantem o nome do método --> construtor --> não tem palavra reservada --> o que encontra é a quantidade de parâmetros
+- dinâmico (acontece em classes diferentes - herança) resolve no momento da excecução --> tem palavra reservada (virtual (super classe) / override(sobreescrever) (sub classe)) --> quando modifica a lógica
+base.metodo() --> reaproveita conteúdo do método da classe base --> sempre dentro do método override
+
+CLASSE ABSTRATA
+não pode instanciar a classe abstrata, não posso ter um objeto da super classe
+classe abstrata usa na classe base
+pode ter: 
+- método concreto (com lógica) - override
+- método abstrato (sem lógica - assinatura(nome,parâmetros ou não,void ou não)) e finaliza com ; --> obriga a classe filha usar o método (aí terá lógica)
+
+INTERFACE
+é um tipo, assim como a classe
+tem apenas métodos - abstrato implicido - não tem a palavra abstract - sem lógica
+implementar interface
+qualquer classe pode implementar interface
+Interface i1 =  new Produto --> objeto i1 só consegue ver o método
+
+SOLID
+conceitos para boas práticas de programação
+5 palavras:
+S --> responsabilidade unica --> cria classe com métodos e atributos dela
+O --> fechado e aberto --> fecha quado tiver pronto, abre quando tiver uma nova necessidade, deixar o sistema preparada para essa nova funcinalidade, sugestão: usar interface
+L --> herança --> classe base pode ser substituido pela sub classe --> fazer testes unitários --> Barbara Liscov
+I --> segregação de interface --> interface com muitos métodos --> separe a interface quando tiver muitos métodos, pois a interface obriga que as classes implementa
+D --> dependencia --> ao invés de depender de uma classe por meio de agreção ou composição, depender de um interface, pois quando um objeto de uma classe todo é instanciado terá acesso a todos os métodos e atributos da classe parte, então quando não há essa necessidade utilizar interface.
+
+
