@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ffH6NCXDsgI=",
+  "dgSpecHash": "hL07k2TU14I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pesquisaetecnologia\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\HerancaFuncionario\\HerancaFuncionario.csproj",
+  "projectFilePath": "C:\\Users\\arian\\Desktop\\Programa-o-Orientada-a-Objeto\\POO_252_noite\\HerancaFuncionario\\HerancaFuncionario.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pesquisaetecnologia\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
-    "C:\\Users\\pesquisaetecnologia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
-    "C:\\Users\\pesquisaetecnologia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
-    "C:\\Users\\pesquisaetecnologia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+    "C:\\Users\\arian\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\arian\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\arian\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\arian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
   ],
   "logs": []
 }
