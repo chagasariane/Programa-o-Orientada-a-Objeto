@@ -9,20 +9,37 @@ Assalariado a2 = new Assalariado(2, "Assalariado 2", e,1000);
 Comissionado c1 = new Comissionado(3, "Comissionado 1", e, 1000, 20);
 Comissionado c2 = new Comissionado(4, "Comissionado 2", e, 1000, 30);
 
-Departamento d1 = new Departamento(11, "TI");
-d1.VetF = new List<Funcionario>();
-d1.AdmitirFuncionario(a1);
-d1.AdmitirFuncionario(c1);
-d1.Mostrar();
-d1.ListarFuncionarios();
-Console.WriteLine($"Total {d1.CalcularFolha(30):c}");
+Departamento depTI = new Departamento(11, "TI");
+depTI.VetF = new List<Funcionario>();
+depTI.AdmitirFuncionario(a1);
+depTI.AdmitirFuncionario(c1);
 
-Departamento d2 = new Departamento(12, "RH");
-d2.VetF = new List<Funcionario>();
-d2.AdmitirFuncionario(a2);
-d2.AdmitirFuncionario(c2);
-d2.Mostrar();
-d2.ListarFuncionarios();
-Console.WriteLine($"Total {d2.CalcularFolha(30):c}");
-d2.DemitirFuncionario(2); // o número é o código do funcionário que quero excluir
-d2.ListarFuncionarios();
+Departamento depRH = new Departamento(12, "RH");
+depRH.VetF = new List<Funcionario>();
+depRH.AdmitirFuncionario(a2);
+depRH.AdmitirFuncionario(c2);
+
+depRH.DemitirFuncionario(2); // o número é o código do funcionário que quero excluir
+depRH.ListarFuncionarios();
+
+Dependente dep1 = new Dependente(101, "Pedro", 12);
+Dependente dep2 = new Dependente(102, "Ana", 20);
+Dependente dep3 = new Dependente(103, "Lucas", 7);
+
+a1.AdicionarDependente(dep1);
+a1.AdicionarDependente(dep3);
+
+a2.AdicionarDependente(dep2);
+
+depTI.Mostrar();
+depTI.ListarFuncionarios();
+Console.WriteLine($"Total {depTI.CalcularFolha(30):c}");
+depTI.MostrarQtdeDependentesFuncionario();
+
+depRH.Mostrar();
+depRH.ListarFuncionarios();
+Console.WriteLine($"Total {depRH.CalcularFolha(30):c}");
+depRH.MostrarQtdeDependentesFuncionario();
+
+a2.RemoverDependentesMaioridade(102);
+a2.ListarDependentes();

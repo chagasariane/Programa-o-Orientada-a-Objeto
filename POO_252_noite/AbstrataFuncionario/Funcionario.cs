@@ -12,6 +12,8 @@ namespace AbstrataFuncionario
         protected Endereco endereco; //endereco é o atributo e Endereco é o tipo 
         protected double salario;
 
+         public List<Dependente> Dependentes { get; set; }
+
         //construtor 
         public Funcionario(int codigo, string nome, Endereco endereco, double salario)
         { // propriedade recebe o parâmetro
@@ -19,6 +21,8 @@ namespace AbstrataFuncionario
             Nome = nome;
             _Endereco = endereco;
             Salario = salario;
+
+            Dependentes = new List<Dependente>();
         }
 
         // métodos de encapsulamento
@@ -51,11 +55,46 @@ namespace AbstrataFuncionario
         // obrigatório que as classes filhas utilizem esse método
         // método abstrato só pode estar dentro de classe bastrata
         // nunca tem lógica
+
+        public int CalcularTotalDependente()
+        {
+            return Dependentes.Count;
+        }
+
+        public void AdicionarDependente(Dependente novoDep)
+        {
+            Dependentes.Add(novoDep);
+        }
+
+        public void RemoverDependentesMaioridade(int codigoDep)
+        {
+            for (int i = 0; i < Dependentes.Count; i++)
+            {
+                if (Dependentes[i].Codigo == codigoDep)
+                {
+                    if (Dependentes[i].VerificarMaiorIdade())
+                        Dependentes.RemoveAt(i);
+
+                    return;
+                }
+            }
+        }
+
+        public void ListarDependentes()
+        {
+            if (Dependentes.Count == 0)
+            {
+                Console.WriteLine("Nenhum dependente cadastrado.");
+                return;
+            }
+
+            foreach (var d in Dependentes)
+                d.Mostrar();
+        }
     }
 }
 //criar classe Dependente
 //implementar funções
 //terá um vetor de dependente
 
-git config --global user.email "ariane0.gc@gmail.com"
-git config --global user.name "Ariane Chagas"
+

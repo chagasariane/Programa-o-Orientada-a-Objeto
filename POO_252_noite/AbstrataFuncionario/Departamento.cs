@@ -14,6 +14,7 @@ namespace AbstrataFuncionario
         {
             Codigo = codigo;
             Nome = nome;
+            VetF = new List<Funcionario>();
         }
         public void Mostrar()
         {
@@ -46,6 +47,13 @@ namespace AbstrataFuncionario
                 folha += f.CalcularSalario(diasUteis); //diasUteis --> argumento --> precisa ser o mesmo nome do parâmetro, pois dentro de CalcularFolha para acessar CalcularSalario
             }
             return folha;
+        }
+        public void MostrarQtdeDependentesFuncionario()
+        {
+            foreach (var f in VetF)
+            {
+                Console.WriteLine($"Funcionário: {f.Nome} \tTotal de dependentes: {f.CalcularTotalDependente()}");
+            }
         }
     }   
 }
