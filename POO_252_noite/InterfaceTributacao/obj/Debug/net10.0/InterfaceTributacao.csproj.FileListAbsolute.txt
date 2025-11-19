@@ -1,0 +1,15 @@
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\obj\Debug\net10.0\InterfaceTributacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\obj\Debug\net10.0\InterfaceTributacao.AssemblyInfoInputs.cache
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\obj\Debug\net10.0\InterfaceTributacao.AssemblyInfo.cs
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\obj\Debug\net10.0\InterfaceTributacao.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\obj\Debug\net10.0\InterfaceTributacao.sourcelink.json
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\bin\Debug\net10.0\InterfaceTributacao.exe
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\bin\Debug\net10.0\InterfaceTributacao.deps.json
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\bin\Debug\net10.0\InterfaceTributacao.runtimeconfig.json
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\bin\Debug\net10.0\InterfaceTributacao.dll
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\bin\Debug\net10.0\InterfaceTributacao.pdb
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\obj\Debug\net10.0\InterfaceTributacao.dll
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\obj\Debug\net10.0\refint\InterfaceTributacao.dll
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\obj\Debug\net10.0\InterfaceTributacao.pdb
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\obj\Debug\net10.0\InterfaceTributacao.genruntimeconfig.cache
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\InterfaceTributacao\obj\Debug\net10.0\ref\InterfaceTributacao.dll

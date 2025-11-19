@@ -1,0 +1,15 @@
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\obj\Debug\net10.0\TrabalhoVendaNoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\obj\Debug\net10.0\TrabalhoVendaNoCaixa.AssemblyInfoInputs.cache
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\obj\Debug\net10.0\TrabalhoVendaNoCaixa.AssemblyInfo.cs
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\obj\Debug\net10.0\TrabalhoVendaNoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\obj\Debug\net10.0\TrabalhoVendaNoCaixa.sourcelink.json
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\bin\Debug\net10.0\TrabalhoVendaNoCaixa.exe
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\bin\Debug\net10.0\TrabalhoVendaNoCaixa.deps.json
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\bin\Debug\net10.0\TrabalhoVendaNoCaixa.runtimeconfig.json
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\bin\Debug\net10.0\TrabalhoVendaNoCaixa.dll
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\bin\Debug\net10.0\TrabalhoVendaNoCaixa.pdb
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\obj\Debug\net10.0\TrabalhoVendaNoCaixa.dll
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\obj\Debug\net10.0\refint\TrabalhoVendaNoCaixa.dll
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\obj\Debug\net10.0\TrabalhoVendaNoCaixa.pdb
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\obj\Debug\net10.0\TrabalhoVendaNoCaixa.genruntimeconfig.cache
+C:\Users\arian\Desktop\Programa-o-Orientada-a-Objeto\POO_252_noite\TrabalhoVendaNoCaixa\obj\Debug\net10.0\ref\TrabalhoVendaNoCaixa.dll
